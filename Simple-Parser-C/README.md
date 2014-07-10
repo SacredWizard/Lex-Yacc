@@ -13,4 +13,4 @@ A parser is one of the components in an interpreter or compiler, which checks fo
 8. Give the input of a test file `test.c` and get the corresponding output
 
 #License
-The Source code can be downloaded and experimented and **must not be published or utilized anywhre** without my consent.
+The Source code can be downloaded and experimented and **must not be published or utilized anywhere** without my permission.
