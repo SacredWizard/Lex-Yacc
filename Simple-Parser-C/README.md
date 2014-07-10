@@ -6,11 +6,11 @@ A parser is one of the components in an interpreter or compiler, which checks fo
 1. Linux Machine is required
 2. Lex and Yacc Packages have to be installed
 3. Now navigate to the folder containing the program.
-4. Execute 'lex parser.l'
-5. Execute 'yacc -d parser.y' 
-6. Link the generated intermediate files and compile them 'gcc lex.yy.c y.tab.c -ll -o parser'
-7. Run the program './parser'
-8. Give the input of a test file 'test.c' and get the corresponding output
+4. Execute `lex parser.l`
+5. Execute `yacc -d parser.y`
+6. Link the generated intermediate files and compile them `gcc lex.yy.c y.tab.c -ll -o parser`
+7. Run the program `./parser`
+8. Give the input of a test file `test.c` and get the corresponding output
 
 #License
 The Source code can be downloaded and experimented and **must not be published or utilized anywhre** without my consent.
